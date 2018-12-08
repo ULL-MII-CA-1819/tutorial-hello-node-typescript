@@ -1,0 +1,1 @@
+* [Editing TypeScript in VisualStudio](https://code.visualstudio.com/docs/languages/typescript)
