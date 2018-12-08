@@ -1,3 +1,4 @@
+// https://www.typescriptlang.org/play/index.html
 class Greeter {
     greeting: string;
     constructor(message: string) {
