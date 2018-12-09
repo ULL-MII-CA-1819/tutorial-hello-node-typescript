@@ -4,3 +4,4 @@ class Point {
 }
 let p  = new Point(2,3);
 p.x = 10;
+console.log(p.y);
